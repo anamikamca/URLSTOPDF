@@ -1,0 +1,6 @@
+https://learn.microsoft.com/en-gb/training/modules/introduction-copilot-spaces/1-introduction
+https://learn.microsoft.com/en-gb/training/modules/introduction-copilot-spaces/2-create-first-space
+https://learn.microsoft.com/en-gb/training/modules/introduction-copilot-spaces/3-share-discover-govern
+https://learn.microsoft.com/en-gb/training/modules/introduction-copilot-spaces/6-working-guide-space
+https://learn.microsoft.com/en-gb/training/modules/introduction-copilot-spaces/4-skills-exercise
+https://learn.microsoft.com/en-gb/training/modules/introduction-copilot-spaces/5-knowledge-check
